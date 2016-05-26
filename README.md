@@ -1,6 +1,6 @@
 # Simple Angular2 Application with JWT Authentication
 
-This repository contains a simple Angular2 Application that authenticates users with jason web tokens. 
+This repository contains a simple Angular2 Application that authenticates users with json web tokens. 
 This project was made with help of [this tutorial](https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.geh2xuy70)
 The list of capabilities of the application:
 * Creates Users
